@@ -1,0 +1,14 @@
+//Test case specific data provider
+
+
+
+{
+
+  "testCaseName":{
+
+    "variableName": "value" //example
+
+  }
+
+
+}

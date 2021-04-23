@@ -1,0 +1,13 @@
+//Shared data provider
+
+{
+
+  "fbTest":{
+
+    "username": "test@yahoo.com",
+    "password":"Testyahoo!@123"//example
+
+  }
+
+
+}
